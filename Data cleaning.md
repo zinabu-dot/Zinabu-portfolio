@@ -3,6 +3,8 @@
 
 ***Cleaning claims other than texts***
 
+
+
 <img src="https://user-images.githubusercontent.com/65596664/154813425-33b11084-82ef-4642-94a7-f63ad335cb67.jpg" width=15% height=15%)>
 
 ***Tokenzation using NLTK***

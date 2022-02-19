@@ -1,6 +1,6 @@
 <h2 style='color:red'> Utilize Python to cleasing Botanical health claims' data </h2> 
 
-Botanical sunstance got their health claims by different expertes in the neutrition area. These claims are multiple lines of sesntence/s. The goal is to link botanical substances with their corresponding health benefits for easy referencing for customers using key words. 
+Botanical sunstance got their health claims by different expertes in the neutrition area. These claims are multiple lines of sesntence/s. The goal is to link botanical substances with their corresponding health benefits for easy referencing for customers using key words. The following cleaning pipelines were built. 
 
 <img style = "align:middle" src="https://user-images.githubusercontent.com/65596664/154809596-a7527236-4775-4832-bf69-7eba010c968a.png" width=15% height=15%>
 

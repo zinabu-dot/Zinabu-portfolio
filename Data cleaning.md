@@ -19,7 +19,7 @@
 ***Stemming***
 
 
-<img src="https://zephyrnet.com/wp-content/uploads/2021/02/6-nlp-techniques-every-data-scientist-should-know.png" width=15% height=15%)>
+<img src="https://zephyrnet.com/wp-content/uploads/2021/02/6-nlp-techniques-every-data-scientist-should-know.png" width=25% height=25%)>
 
 ***Lemmatization***
 

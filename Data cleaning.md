@@ -2,7 +2,7 @@
 <div style =
             "align-items: center; display=flex">
   <img style="vertical-align:middle" src="https://user-images.githubusercontent.com/65596664/154809596-a7527236-4775-4832-bf69-7eba010c968a.png" width=10% height=10%>
-  <h3>Cleaning other than texts</h3>
+  <span>Cleaning other than texts</span>
  </div>
 
 

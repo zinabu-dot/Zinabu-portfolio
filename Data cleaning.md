@@ -8,15 +8,21 @@
 ***Tokenzation using NLTK***
 
 
+
+
 <img src="https://i0.wp.com/xpo6.com/wp-content/uploads/2009/04/stop-words.png?fit=837%2C499&w=640" width=15% height=15%)>
 
 ***Remove stopwords***
 
 
 
+
+
 <img src="http://pythonwife.com/wp-content/uploads/stemmer-image-750x530.png" width=15% height=15%)>
 
 ***Stemming***
+
+
 
 
 <img src="https://zephyrnet.com/wp-content/uploads/2021/02/6-nlp-techniques-every-data-scientist-should-know.png" width=25% height=25%)>

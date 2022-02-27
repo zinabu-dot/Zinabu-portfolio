@@ -30,7 +30,7 @@ Botanical sunstance got their health claims by different expertes in the neutrit
 
 
 
-<img src="https://zephyrnet.com/wp-content/uploads/2021/02/6-nlp-techniques-every-data-scientist-should-know.png" width=20% height=20%)>
+<img src="https://zephyrnet.com/wp-content/uploads/2021/02/6-nlp-techniques-every-data-scientist-should-know.png" width=15% height=15%)>
 
 ***Lemmatization***
 

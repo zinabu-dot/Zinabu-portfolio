@@ -1,4 +1,4 @@
-<h2 style='color:red'> Utilize Python to cleasing Botanical health claims' data </h2> 
+<h2 style='color:red'> Utilize Python to cleansing Botanical health claims' data </h2> 
 
 Botanical sunstance got their health claims by different expertes in the neutrition area. These claims are multiple lines of sesntence/s. The goal is to link botanical substances with their corresponding health benefits for easy referencing for customers using key words. The following cleaning pipelines were built. 
 --- ---
